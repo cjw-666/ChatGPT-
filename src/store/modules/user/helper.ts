@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://www.xstech.top/wp-content/uploads/2023/03/128x128.png',
       name: 'ChatGPT本地化版',
-      description: '官网链接- <a href="http://www.xstech.top/" class="text-blue-500" target="_blank" >XsTech</a>',
+      //description: '官网链接- <a href="http://www.xstech.top/" class="text-blue-500" target="_blank" >XsTech</a>',
     },
   }
 }
